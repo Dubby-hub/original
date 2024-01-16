@@ -431,7 +431,7 @@ button:hover{
     .content5{
         display: grid;
         grid-template-columns: 1fr;
-        width: auto;
+        width: 145%;
         padding: 0;
         margin: 0;
         justify-content: center;
@@ -457,17 +457,19 @@ button:hover{
         padding-bottom: 20px;
         width: auto;
         text-align: center;
+        
     } 
 .name{
-    width: 400px;
-    margin-left: 2px;
+    width: 3600px;
+    margin-left: 10px;
 }
 .phone{
-    width: 400px;
-    margin-left: 2px;
+    width: 360px;
+    margin-left: 10px;
 }
 #message{
-    width: 400px;
+    width: 360px;
+    margin: 5px;
 }
 .buton{
     padding-left: 20px;
@@ -486,11 +488,12 @@ button:hover{
     
 }
 
-    .content7{
+ .content7{
         display: grid;
         grid-template-columns: 1fr;
         justify-content: center;
         text-align: center;
+        width: 145%;
     }
     .plast{
         text-align: center;
