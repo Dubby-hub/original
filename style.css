@@ -459,13 +459,13 @@ button:hover{
         text-align: center;
     } 
 .name{
-    width: 400px;
+    width: 360px;
 }
 .phone{
-    width: 400px;
+    width: 360px;
 }
 #message{
-    width: 400px;
+    width: 360px;
 }
 .buton{
     padding-left: 20px;
@@ -480,6 +480,7 @@ button:hover{
 .icon img{
     width: 30px;
     height: 30px;
+    margin-right: 0;
     
 }
 
