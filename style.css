@@ -431,7 +431,7 @@ button:hover{
     .content5{
         display: grid;
         grid-template-columns: 1fr;
-        width: 140%;
+        width: auto;
         padding: 0;
         margin: 0;
         justify-content: center;
@@ -462,9 +462,12 @@ button:hover{
 .name{
     width: 360px;
    
+    
+   
 }
 .phone{
     width: 360px;
+    
     
 }
 #message{
