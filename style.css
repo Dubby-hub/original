@@ -431,7 +431,7 @@ button:hover{
     .content5{
         display: grid;
         grid-template-columns: 1fr;
-        width: 145%;
+        width: 140%;
         padding: 0;
         margin: 0;
         justify-content: center;
@@ -460,16 +460,16 @@ button:hover{
         
     } 
 .name{
-    width: 3600px;
-    margin-left: 10px;
+    width: 360px;
+   
 }
 .phone{
     width: 360px;
-    margin-left: 10px;
+    
 }
 #message{
     width: 360px;
-    margin: 5px;
+   
 }
 .buton{
     padding-left: 20px;
@@ -493,7 +493,7 @@ button:hover{
         grid-template-columns: 1fr;
         justify-content: center;
         text-align: center;
-        width: 145%;
+       
     }
     .plast{
         text-align: center;
