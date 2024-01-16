@@ -471,7 +471,7 @@ button:hover{
     
 }
 #message{
-    width: 360px;
+    width: 400px;
    
 }
 .buton{
@@ -496,7 +496,7 @@ button:hover{
         grid-template-columns: 1fr;
         justify-content: center;
         text-align: center;
-        width: 400px;
+        
         
        
     }
